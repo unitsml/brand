@@ -1,0 +1,66 @@
+= UnitsML branding guide
+
+== Typography
+
+The designated font is https://fonts.google.com/specimen/Work+Sans[Work Sans]
+available from Google Fonts under an Open Font License.
+
+The two typeface weights used are:
+
+* Work Sans Light
+* Work Sans Semibold
+
+.UnitsML logotype
+image::logotype.svg[]
+
+== Logo
+
+=== Shape and philosophy
+
+[quote,Lao Tze]
+____
+What is empty provides utility.
+____
+
+The graphical logo incorporates the letters U, M and L
+in the same rectangular shape, with the "U" visible in
+the negative space.
+
+Units serve a crucial purpose but are often overlooked
+in measurements. Echoing the said quote, units benefit
+the world best by remaining hidden.
+
+The logo is designed by http://simpleisbeautiful.ca[Jen Scarisbrick].
+
+.UnitsML logo shape
+image::logo-shape.svg[]
+
+
+=== Variants
+
+The logo is designed to allow incorporation of different
+color fills to suit different occasions.
+Plain, gradients or patterns all work.
+
+.Type 1
+image::logo-01.svg[]
+
+.Type 2
+image::logo-02.svg[]
+
+.Type 3
+image::logo-03.svg[]
+
+.Type 4
+image::logo-04.svg[]
+
+.Type 5
+image::logo-05.svg[]
+
+.Type 6
+image::logo-06.svg[]
+
+
+== License
+
+Copyright Ribose.
